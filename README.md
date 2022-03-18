@@ -5,10 +5,14 @@ A nationwide survey of hospital costs conducted by the US Agency for Healthcare 
 
 **Attribute	Description**
 Age ---------	Age of the patient discharged
+
 Female ---	A binary variable that indicates if the patient is female
+
 Los	-----Length of stay in days
 Race -----	Race of the patient (specified numerically)
+
 Totchg	--------Hospital discharge costs
+
 Aprdrg	-------All Patient Refined Diagnosis Related Groups
 
 Analysis to be done: 
